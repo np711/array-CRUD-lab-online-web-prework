@@ -1,6 +1,5 @@
 def create_an_empty_array
-  []
-  got: nil 
+  my_array = []
   
 end
 
