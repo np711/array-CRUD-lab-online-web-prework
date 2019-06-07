@@ -1,5 +1,7 @@
-def create_an_empty_array
-  []
+def create_an_empty_array. to eq([])
+  expected: []
+  got: nil
+  (comared using ==)
 end
 
 def create_an_array
