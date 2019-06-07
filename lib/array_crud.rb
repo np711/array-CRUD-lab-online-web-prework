@@ -4,7 +4,8 @@ def create_an_empty_array.to eq([])
   (comared using ==)
 end
 
-def create_an_array
+def create_an_array. to be_a(Array)
+  expected nil to be a kid of Array
   
 end
 
