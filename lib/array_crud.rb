@@ -1,4 +1,4 @@
-def create_an_empty_array. to eq([])
+def create_an_empty_array.to eq([])
   expected: []
   got: nil
   (comared using ==)
